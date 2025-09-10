@@ -36,13 +36,4 @@ For this challenge you’ll be planning and implementing a formatting strategy f
                   ii.	uses the alt text “W3C logo”
 		  iii.	passes the value of 200 for width, and 136 for height
 		  iv.	applies a class of “flowLeft”			
-		
-
-Finished Steps:
-1 - done
-2 - done
-3 - done
-4 - (almost)
-5 - done 
-6 - done
 
